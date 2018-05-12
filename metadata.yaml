@@ -1,0 +1,25 @@
+_repo: Da-Loucura-e-das-Manias-em-Portugal_34275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machado, Júlio César
+    alias: Machado, Julio Cesar
+    gutenberg_agent_id: '36929'
+    url: http://www.gutenberg.org/2009/agents/36929
+description: ''
+gutenberg_issued: '2010-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34275'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor -- History and criticism'
+- !lcc 'PN'
+title: Da Loucura e das Manias em Portugal
+url: http://www.gutenberg.org/ebooks/34275
